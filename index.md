@@ -1,5 +1,5 @@
 ## Glen Cooper's Website
-
+![Image](Glen Self Port_small.jpg)
 ## Biography
 Professional: 20+ years experience in banking and finance. 
 
