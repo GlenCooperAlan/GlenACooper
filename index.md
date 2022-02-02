@@ -14,6 +14,9 @@ Certifications:
   Faster Project Management Gold Certified
   University of Texas at Dallas' Graduate Teaching Certificate
 
+
+
+
 ### Contact
 Glen Cooper at: glco@sbcglobal.net
 
