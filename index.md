@@ -6,7 +6,7 @@ Academic: BS, Accounting – California State University, Long Beach /  MBA - Ca
 Certifications: CPA, California / Faster Project Management Gold Certified / University of Texas at Dallas' Graduate Teaching Certificate
 
 Papers:
-[Link](https://github.com/GlenCooperAlan/GlenACooper/blob/a236abe41ea0bbb38d74eba37834b4c95d6ed666/20220126_Breiman%20vs%20Shmuell.pdf)
+[Models, Breiman vs Shmuell](https://github.com/GlenCooperAlan/GlenACooper/blob/a236abe41ea0bbb38d74eba37834b4c95d6ed666/20220126_Breiman%20vs%20Shmuell.pdf)
 
 
 ### Contact
