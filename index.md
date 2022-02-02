@@ -14,7 +14,7 @@ Certifications:
   Faster Project Management Gold Certified
   University of Texas at Dallas' Graduate Teaching Certificate
 
-
+Papers: https://github.com/GlenCooperAlan/Breiman_vs_Shmuell-
 
 
 ### Contact
