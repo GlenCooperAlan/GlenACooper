@@ -1,4 +1,4 @@
-## Glen Cooper's Website
+##
 ![Image](Glen Self Port_small.jpg)
 ## Biography
 
