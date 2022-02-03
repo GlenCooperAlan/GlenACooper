@@ -13,5 +13,5 @@
 
 
 ```
-##### Contact Glen Cooper at: glco@sbcglobal.net
+Contact Glen Cooper at: glco@sbcglobal.net
 ```
