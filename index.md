@@ -1,7 +1,8 @@
-```
-li {line-height: 3;}
-```
 ![Image](Glen Self Port_small.jpg)
+``` {css}
+li {
+line-height: 3;}
+```
 ## Biography
 
 - Professional: 20+ years experience in banking, finance, auditing, and risk management
