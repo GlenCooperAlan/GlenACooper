@@ -1,8 +1,3 @@
-```{css}
-li {
-  line-height: 3;
-}
-...
 ![Image](Glen Self Port_small.jpg)
 ## Biography
 
