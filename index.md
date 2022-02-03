@@ -13,6 +13,5 @@ Certifications: CPA, California / Faster Project Management Gold Certified / Uni
 [Models, Breiman vs Shmuell](https://github.com/GlenCooperAlan/GlenACooper/blob/a236abe41ea0bbb38d74eba37834b4c95d6ed666/20220126_Breiman%20vs%20Shmuell.pdf)
 
 
-##### Contact
-Glen Cooper at: glco@sbcglobal.net
+##### Contact Glen Cooper at: glco@sbcglobal.net
 
