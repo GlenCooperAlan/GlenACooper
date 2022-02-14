@@ -8,8 +8,8 @@
 ### Papers:
 - [Models, Breiman vs Shmuell](https://github.com/GlenCooperAlan/GlenACooper/blob/a236abe41ea0bbb38d74eba37834b4c95d6ed666/20220126_Breiman%20vs%20Shmuell.pdf)
 - Assignment 1 Output:
--   Lab01(https://github.com/GlenCooperAlan/GlenACooper/blob/gh-pages/KnowledgeMiningEPPS-6323DrHoLab01Assignment1GlenCreated.pdf)
--   Lab02(https://github.com/GlenCooperAlan/GlenACooper/blob/gh-pages/KnowledgeMiningEPPS6323DrHoLab02Assignment1GlenCreated.pdf)
+-  [Lab01](https://github.com/GlenCooperAlan/GlenACooper/blob/gh-pages/KnowledgeMiningEPPS-6323DrHoLab01Assignment1GlenCreated.pdf)
+-  [Lab02](https://github.com/GlenCooperAlan/GlenACooper/blob/gh-pages/KnowledgeMiningEPPS6323DrHoLab02Assignment1GlenCreated.pdf)
 
 
 
