@@ -7,6 +7,9 @@
 
 ### Papers:
 - [Models, Breiman vs Shmuell](https://github.com/GlenCooperAlan/GlenACooper/blob/a236abe41ea0bbb38d74eba37834b4c95d6ed666/20220126_Breiman%20vs%20Shmuell.pdf)
+- Assignment 1 Output
+
+
 
 
 
