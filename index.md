@@ -8,7 +8,7 @@
 
 ### Papers:
 - [Models, Breiman vs Shmuell](https://github.com/GlenCooperAlan/GlenACooper/blob/a236abe41ea0bbb38d74eba37834b4c95d6ed666/20220126_Breiman%20vs%20Shmuell.pdf)
-- Assignment 1 Output: [Lab01](https://github.com/GlenCooperAlan/GlenACooper/blob/gh-pages/KnowledgeMiningEPPS-6323DrHoLab01Assignment1GlenCreated.pdf), [Lab02](https://github.com/GlenCooperAlan/GlenACooper/blob/gh-pages/KnowledgeMiningEPPS6323DrHoLab02Assignment1GlenCreated.pdf), and [Lab03](https://github.com/GlenCooperAlan/GlenACooper/blob/b873a508fd8e8d09c5bf7fc29c0a3a911c5228d7/Lab03_Modified-for-Glen-produce-output_03042022.html)
+- Assignment 1 Output: [Lab01](https://github.com/GlenCooperAlan/GlenACooper/blob/gh-pages/KnowledgeMiningEPPS-6323DrHoLab01Assignment1GlenCreated.pdf), [Lab02](https://github.com/GlenCooperAlan/GlenACooper/blob/gh-pages/KnowledgeMiningEPPS6323DrHoLab02Assignment1GlenCreated.pdf), and [Lab03](https://glencooperalan.github.io/GlenACooper/Lab03_Modified-for-Glen-produce-output_03042022.html)
 - Assignment 2 Output: [Lab04](https://github.com/GlenCooperAlan/GlenACooper/blob/1a2129b0bcbee1d3a123382df7913a224bc5adc3/Lab04_Glen%20Cooper%20Output%2020220220.pdf), [TEDS2016 Data Analyze](https://github.com/GlenCooperAlan/GlenACooper/blob/0050c25627441f705d206b8d46f0759483e8bf37/Assignment2WorkonTEDS2016Data.pdf), [Lab05 Orig Output](https://github.com/GlenCooperAlan/GlenACooper/blob/c4f82ae5cbd0844bb42cef9ccaf18e43f376285e/Lab05_for-All-Lab05-Output.html)
 
 
