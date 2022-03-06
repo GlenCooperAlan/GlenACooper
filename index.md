@@ -10,6 +10,7 @@
 - [Models, Breiman vs Shmuell](https://glencooperalan.github.io/GlenACooper20220126_Breiman vs Shmuell.pdf)
 - Assignment 1 Output: [Lab01](https://glencooperalan.github.io/GlenACooper/KnowledgeMiningEPPS-6323DrHoLab01Assignment1GlenCreated.pdf), [Lab02](https://glencooperalan.github.io/GlenACooper/KnowledgeMiningEPPS6323DrHoLab02Assignment1GlenCreated.pdf), and [Lab03](https://glencooperalan.github.io/GlenACooper/Lab03_Modified-for-Glen-produce-output_03042022.html)
 - Assignment 2 Output: [Lab04](https://glencooperalan.github.io/GlenACooper/Lab04_Glen-Output-20220220_01.html), [TEDS2016 Data Analyze](https://glencooperalan.github.io/GlenACooper/Assignment2WorkonTEDS2016Data.pdf), [Lab05 Orig Output](https://glencooperalan.github.io/GlenACooper/Lab05_for-All-Lab05-Output.html)
+- Assignment 4 Output: [Gentle Into ML Mod4:](https://glencooperalan.github.io/GlenACooper/GentleIntroMLModule4.html)
 
 
 
