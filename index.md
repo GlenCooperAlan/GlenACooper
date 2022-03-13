@@ -11,6 +11,7 @@
 - Assignment 1 Output: [Lab01](https://glencooperalan.github.io/GlenACooper/KnowledgeMiningEPPS-6323DrHoLab01Assignment1GlenCreated.pdf), [Lab02](https://glencooperalan.github.io/GlenACooper/KnowledgeMiningEPPS6323DrHoLab02Assignment1GlenCreated.pdf), and [Lab03](https://glencooperalan.github.io/GlenACooper/Lab03_Modified-for-Glen-produce-output_03042022.html)
 - Assignment 2 Output: [Lab04](https://glencooperalan.github.io/GlenACooper/Lab04_Glen-Output-20220220_01.html), [TEDS2016 Data Analyze](https://glencooperalan.github.io/GlenACooper/Assignment2WorkonTEDS2016Data.pdf), [Lab05 Orig Output](https://glencooperalan.github.io/GlenACooper/Lab05_for-All-Lab05-Output.html)
 - Assignment 4 Output: [Gentle Into ML Mod4:](https://glencooperalan.github.io/GlenACooper/GentleIntroMLModule4.html)
+- Assignment 5 Output: [Lab06 Sentiment Syuzhet](https://glencooperalan.github.io/GlenACooper/Lab06_sentiment_syuzhet01_Glen_Version.html) [Lab06 Sentiment Tidytext](https://glencooperalan.github.io/GlenACooper/Lab06_sentiment_tidytext01_Glen_Version.html) [Lab06 Testmining](https://glencooperalan.github.io/GlenACooper/Lab06_textmining01_Glen-Version.html)
 
 
 
