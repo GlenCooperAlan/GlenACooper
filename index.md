@@ -7,8 +7,7 @@
 - [CV](https://github.com/GlenCooperAlan/GlenACooper/blob/e218e77a99cfa9d2a367705ac7954878c9557bb9/GlenCooper_Resume_GetHub.pdf)
 
 ### Papers / Assignments:
-- NONE
-- 
+- NONE 
 
 
 
