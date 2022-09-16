@@ -10,7 +10,7 @@
 
 ### Papers / Assignments:
 - Assignment 1: [Generative Art](https://glencooperalan.github.io/GlenACooper/20220908_GCooper_EPPS 6356_Assignment 1a_Generative Art.pdf), [Fall Leaf](https://glencooperalan.github.io/GlenACooper/20220908_GCooper_EPPS 6356_Assignment 1b_Fall Leaf.pdf), and [Graphic Critique](https://glencooperalan.github.io/GlenACooper/20220908_GCooper_EPPS 6356_Assignment 1c_Graphic Critique.pdf)
-- Prespare for Class 4: [Summary Tufte, Edward. 2016. The Future of Data Analysis] (https://glencooperalan.github.io/GlenACooper/20220916_GCooper_PPPE 6356_Microsoft Machine Learning & Data Science Summit 2016.pdf)
+- Prespare for Class 4: [Summary Tufte, Edward. 2016. The Future of Data Analysis](https://glencooperalan.github.io/GlenACooper/20220916_GCooper_PPPE 6356_Microsoft Machine Learning & Data Science Summit 2016.pdf)
 
  
 
