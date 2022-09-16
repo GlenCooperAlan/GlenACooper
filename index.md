@@ -6,7 +6,7 @@
 - Certifications: CPA, California / Faster Project Management Gold Certified / University of Texas at Dallas' Graduate Teaching Certificate
 - [CV](https://github.com/GlenCooperAlan/GlenACooper/blob/e218e77a99cfa9d2a367705ac7954878c9557bb9/GlenCooper_Resume_GetHub.pdf)
 
-## My Blog
+### My Blog
 - [Blog](https://glencooperalan.github.io/Blog/)
 
 ### Papers / Assignments:
