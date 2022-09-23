@@ -14,7 +14,7 @@
 - Prespare for Class 4: [Summary Tufte, Edward. 2016. The Future of Data Analysis](https://glencooperalan.github.io/GlenACooper/20220916_GCooper_PPPE 6356_Microsoft Machine Learning & Data Science Summit 2016.pdf)
 - Assignment 2: [Results from Murrell's RGraphics R Program Step Through](https://glencooperalan.github.io/GlenACooper/20220917_murrell01_R_Output.pdf), [Happyplanet R Program](https://glencooperalan.github.io/GlenACooper/20220918_assignment02_R_Program.pdf), [Happyplanet R Program Output](https://glencooperalan.github.io/GlenACooper/20220918_assignment02_graphs.pdf)
 - Prepare for Class 5: [Big Data Pitfalls](https://glencooperalan.github.io/GlenACooper/20220927_GCooper_EPPS 6356_BigDataPitfalls.pdf) and [Wickham Lecture](https://glencooperalan.github.io/GlenACooper/20220927_GCooper_EPPS 6356_Wickam_Keynote Lecture.pdf)
-
+- Assignment 3: [Results from Anscombe01 R Program Step Through](https://glencooperalan.github.io/GlenACooper/20220978_GCooper_EPPS 6356_Assignment 3_anscombe01R.pdf)
 
  
 
