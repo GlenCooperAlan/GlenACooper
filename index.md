@@ -17,7 +17,7 @@
 - Assignment 3: [Results from Anscombe01 R Program Step Through](https://glencooperalan.github.io/GlenACooper/20220978_GCooper_EPPS 6356_Assignment 3_anscombe01R.pdf)
 - Prepare for Class 6: [Compare Visualization Authors](https://glencooperalan.github.io/GlenACooper/20221004_GCooper_PPPE 6356_Comparison Tufte and Wickham.pdf)
 - Assignment 4: Hackathon [Code](https://glencooperalan.github.io/GlenACooper/hackathon_code.qmd), [Output](https://glencooperalan.github.io/GlenACooper/Hackathon_output.pdf)
-- Prepare for Class 7: [Literate Programming](https://glencooperalan.github.io/GlenACooper/20221010_GCooper_PPPE 6356_Literate Programming.pdf) and [Elements Visualization]
+- Prepare for Class 7: [Literate Programming](https://glencooperalan.github.io/GlenACooper/20221010_GCooper_PPPE 6356_Literate Programming.pdf) and [Elements Visualization](https://glencooperalan.github.io/GlenACooper/20221010_GCooper_PPPE 6356_Visualization Elements.pdf)
 
 
 
