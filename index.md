@@ -21,7 +21,7 @@
 - Assignment 5: [From data set](https://glencooperalan.github.io/GlenACooper/20221020_CountryRDSpendperGDP.xlsx), [using R script ](https://glencooperalan.github.io/GlenACooper/20221021_GCooper_EPPS 6356_Assign5_Solution.R), [produced following graphics: Side by Side Bar](https://glencooperalan.github.io/GlenACooper/20221021_GCooper_EPPS 6356_Assign5_SidebySideBar.pdf), [Column chart](https://glencooperalan.github.io/GlenACooper/20221021_GCooper_EPPS 6356_Assign5_Columnchart.pdf), [and Cyclical chart](https://glencooperalan.github.io/GlenACooper/20221021_GCooper_EPPS 6356_Assign5_Cyclicalchart.pdf)
 - Assignment 6: [Shiny App for 'dataset' Library Summary Data](https://metgp7-glen-cooper.shinyapps.io/Shiny_Assign_6b/), [& Shiny App Using R&D Expenditures by Country](https://metgp7-glen-cooper.shinyapps.io/Shiny_Assign_6d_6e/)
 - Assignment 7: [Using this dataset](https://github.com/GlenCooperAlan/GlenACooper/blob/gh-pages/20221020_CountryRDSpendperGDP.xlsx) [and this R script](https://github.com/GlenCooperAlan/GlenACooper/blob/gh-pages/20221027_app_Assign%207.R) [deployed this Shiny application](https://t5904j-kjaura1.shinyapps.io/Hackathon2/)
-- Assignment 8: [Flexdashboard Example](file:///D:/glenc/Documents/20221119_Flexdashboard_Glen/Datavisualization_GlenC_storyboard.html)
+- Assignment 8: [Flexdashboard Example](https://glencooperalan.github.io/GlenACooper/Datavisualization_GlenC_storyboard.html)
 - Assignment 10: [Presentation Visualization Review](https://github.com/GlenCooperAlan/GlenACooper/blob/gh-pages/20221117_GCooper_EPPS 6356_Assignment 10_Dr Brandt Presentation.pdf)
 
 
