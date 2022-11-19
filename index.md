@@ -22,7 +22,7 @@
 - Assignment 6: [Shiny App for 'dataset' Library Summary Data](https://metgp7-glen-cooper.shinyapps.io/Shiny_Assign_6b/), [& Shiny App Using R&D Expenditures by Country](https://metgp7-glen-cooper.shinyapps.io/Shiny_Assign_6d_6e/)
 - Assignment 7: [Using this dataset](https://github.com/GlenCooperAlan/GlenACooper/blob/gh-pages/20221020_CountryRDSpendperGDP.xlsx) [and this R script](https://github.com/GlenCooperAlan/GlenACooper/blob/gh-pages/20221027_app_Assign%207.R) [deployed this Shiny application](https://t5904j-kjaura1.shinyapps.io/Hackathon2/)
 - Assignment 8: [Flexdashboard Example](https://glencooperalan.github.io/GlenACooper/Datavisualization_GlenC_storyboard.html)
-- Assignment 9: Time Series Examples - [Apple Stock #1](https://glencooperalan.github.io/GlenACooper/20221119_AppleStkPrices01.pdf)
+- Assignment 9: Time Series Examples - [Apple Stock #1](https://glencooperalan.github.io/GlenACooper/20221119_AppleStkPrices01.pdf) , [Apple Stock #2](https://glencooperalan.github.io/GlenACooper/20221119_AppleStkPrices02.pdf)
 - Assignment 10: [Presentation Visualization Review](https://github.com/GlenCooperAlan/GlenACooper/blob/gh-pages/20221117_GCooper_EPPS 6356_Assignment 10_Dr Brandt Presentation.pdf)
 
 
