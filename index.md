@@ -24,6 +24,7 @@
 - Assignment 8: [Flexdashboard Example](https://glencooperalan.github.io/GlenACooper/Datavisualization_GlenC_storyboard.html)
 - Assignment 9: Time Series Examples - [Apple Stock #1](https://glencooperalan.github.io/GlenACooper/20221119_AppleStkPrices01.pdf), [Apple Stock #2](https://glencooperalan.github.io/GlenACooper/20221119_AppleStkPrices02.pdf), [Apple Stock #3](https://glencooperalan.github.io/GlenACooper/20221119_AppleStkPrices03.pdf), [Apple Stock #4](https://glencooperalan.github.io/GlenACooper/20221119_AppleStkPrices04.pdf), [Twitter Stock #1](https://glencooperalan.github.io/GlenACooper/20221119_TwitterStkPrices.pdf), [US Stock Market #1](https://glencooperalan.github.io/GlenACooper/20221119_US Stock Market01.pdf), [US Stock Market #2](https://glencooperalan.github.io/GlenACooper/20221119_US Stock Market02.pdf), [World Stock Markets #1](https://glencooperalan.github.io/GlenACooper/20221119_World Stock Markets01.pdf)
 - Assignment 10: [Presentation Visualization Review](https://github.com/GlenCooperAlan/GlenACooper/blob/gh-pages/20221117_GCooper_EPPS 6356_Assignment 10_Dr Brandt Presentation.pdf)
+- Final Project: [Data Analyses R Code] (https://glencooperalan.github.io/GlenACooper/ 20221209_Data_Analysis_R_script.R)
 
 
 
