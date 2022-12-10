@@ -31,7 +31,7 @@ PREPARE FOR CLASS
 PROJECT
 - Initial Project Presentation: [Initial Presentation](https://kiranjaura.quarto.pub/events_final/proposal.html#/title-slide)
 - Final Project Presentation (see "Source Code" menu option, upper right, for code script) : [Final Presentation](https://t5904j-kjaura1.shinyapps.io/Storyboard/_w_529b15f0/Story.Rmd)
-- Final Project: [Report,](https://glencooperalan.github.io/GlenACooper/2020-12-09 EPPS 6356 Final Project - Jaura, Cooper, Si, Sianan.pdf) [Event Generation R Code,](https://glencooperalan.github.io/GlenACooper/20221209_EventGenerationScript.R), [Data Analyses R Code](https://glencooperalan.github.io/GlenACooper/20221209_Data_Analysis_R_script.R)
+- Final Project: [Report,](https://glencooperalan.github.io/GlenACooper/20201209_EPPS6356_FinalProject_Jaura_Cooper_Si_Sianan.pdf) [Event Generation R Code,](https://glencooperalan.github.io/GlenACooper/20221209_EventGenerationScript.R), [Data Analyses R Code](https://glencooperalan.github.io/GlenACooper/20221209_Data_Analysis_R_script.R)
 
 
 ```
