@@ -26,7 +26,7 @@
 - Assignment 10: [Presentation Visualization Review](https://github.com/GlenCooperAlan/GlenACooper/blob/gh-pages/20221117_GCooper_EPPS 6356_Assignment 10_Dr Brandt Presentation.pdf)
 - Initial Project Presentation: [Initial Presentation](https://kiranjaura.quarto.pub/events_final/proposal.html#/title-slide)
 - Final Project Presentation (see "Source Code" menu option, upper right, for code script) : [Final Presentation](https://t5904j-kjaura1.shinyapps.io/Storyboard/_w_529b15f0/Story.Rmd)
-- Final Project: [Data Analyses R Code](https://glencooperalan.github.io/GlenACooper/20221209_Data_Analysis_R_script.R)
+- Final Project: [Event Generation R Code](https://glencooperalan.github.io/GlenACooper/20221209_EventGenerationScript.R), [Data Analyses R Code](https://glencooperalan.github.io/GlenACooper/20221209_Data_Analysis_R_script.R)
 
 
 
