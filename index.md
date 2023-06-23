@@ -23,8 +23,8 @@ Innovation Economics
 - [Data Center Geospatial Positioning Research Proposal](https://glencooperalan.github.io/GlenACooper/20220811_Data Center Geospatial Positioning Research Proposal.pdf)
 - [Political Economy of Innovation Exam Responses](https://glencooperalan.github.io/GlenACooper/20201120_Political Economy of InnnovationExam 1 2_History of Innovation Econ.pdf)
 - [Emerging Technology Management](https://glencooperalan.github.io/GlenACooper/19920101_Emerging_Tech_Mtg.PDF)
-- [Expert System Technology in the Mortgage Banking Industry](https://metgp7-glen-cooper.shinyapps.io/19990101_Expert_Sys_Mort.pdf)
-- [Computing](https://metgp7-glen-cooper.shinyapps.io/19920101_Computing.PDF) 
+- [Expert System Technology in the Mortgage Banking Industry](https://glencooperalan.github.io/GlenACooper/19990101_Expert_Sys_Mort.pdf)
+- [Computing](https://glencooperalan.github.io/GlenACooper/19920101_Computing.PDF) 
 
 PREPARE FOR CLASS
 - Prespare for Class 4: [Summary Tufte, Edward. 2016. The Future of Data Analysis](https://glencooperalan.github.io/GlenACooper/20220916_GCooper_PPPE 6356_Microsoft Machine Learning & Data Science Summit 2016.pdf)
