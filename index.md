@@ -26,13 +26,26 @@ Innovation Economics
 - [Expert System Technology in the Mortgage Banking Industry](https://glencooperalan.github.io/GlenACooper/19990101_Expert_Sys_Mort.pdf)
 - [Computing](https://glencooperalan.github.io/GlenACooper/19920101_Computing.PDF) 
 
-PREPARE FOR CLASS
-- Prespare for Class 4: [Summary Tufte, Edward. 2016. The Future of Data Analysis](https://glencooperalan.github.io/GlenACooper/20220916_GCooper_PPPE 6356_Microsoft Machine Learning & Data Science Summit 2016.pdf)
-- Prepare for Class 5: [Big Data Pitfalls](https://glencooperalan.github.io/GlenACooper/20220927_GCooper_EPPS 6356_BigDataPitfalls.pdf) and [Wickham Lecture](https://glencooperalan.github.io/GlenACooper/20220927_GCooper_EPPS 6356_Wickam_Keynote Lecture.pdf)
-- Prepare for Class 6: [Compare Visualization Authors](https://glencooperalan.github.io/GlenACooper/20221004_GCooper_PPPE 6356_Comparison Tufte and Wickham.pdf)
-- Prepare for Class 7: [Literate Programming](https://glencooperalan.github.io/GlenACooper/20221010_GCooper_PPPE 6356_Literate Programming.pdf) and [Elements Visualization](https://glencooperalan.github.io/GlenACooper/20221010_GCooper_PPPE 6356_Visualization Elements.pdf)
+Political Economy
+- [Environmental Ethics Briefing Memo](https://glencooperalan.github.io/GlenACooper/20210317_Environmental Ethics_Briefing Memo.pdf)
+- [International Relations Final Exam](https://glencooperalan.github.io/GlenACooper/20190510_International Relations Final Exam.pdf)
+- [Testing and Education Support Industry Analysis](https://glencooperalan.github.io/GlenACooper/20200101_Testing and Education Support Industry Analysis.pdf)
+- [International Support for Microfinance](https://glencooperalan.github.io/GlenACooper/04292019_International Support for Microfinance.pdf)
+- [Microcredit African Country Production](https://glencooperalan.github.io/GlenACooper/20190412_Microcredit African Country Production.pdf)
+- [Impacting Microcredit in African Countries](https://glencooperalan.github.io/GlenACooper/20190428_Impacting Microcredit in African Countries.pdf)
+- [Microcredit Angola vs Ghana](https://glencooperalan.github.io/GlenACooper/20190208_Microcredit Angola vs Ghana.pdf)
+- [Microcredit Angola vs Ghana](https://glencooperalan.github.io/GlenACooper/2019022_Microcredit Angola vs Ghana.pdf)
+- [Financial Futures](https://glencooperalan.github.io/GlenACooper/19930101__Financial Futures.pdf)
+- [NV State Economic Analysis and Outlook Summary Report](https://glencooperalan.github.io/GlenACooper/20180320_NV State Economic Analysis and Outlook Summary Report.pdf)
+- [Honduras versus El Salvador Migration to the United States](https://glencooperalan.github.io/GlenACooper/20181026_Honduras versus El Salvador Migration to the United States.pdf)
+- [Colorado versus Texas and the Legalization of Marijuana](https://glencooperalan.github.io/GlenACooper/20180928_Colorado versus Texas and the Legalization of Marijuana.pdf)
+- [Relationship between Tax Personnel and Tax Strategy](https://glencooperalan.github.io/GlenACooper/20191201_Relationship between Tax Personnel and Tax Strategy.pdf)
+- [Modeling South African GDP Post Apartheid](https://glencooperalan.github.io/GlenACooper/20190430_Modeling South African GDP Post Apartheid.pdf)
+- [Texas Constitutional Carry Survey](https://glencooperalan.github.io/GlenACooper/20220501_Texas Constitutional Carry Survey_.pdf)
+- [Yield Curve Presentation](https://glencooperalan.github.io/GlenACooper/20180213_Yield Curve Presentation.pdf)
+- [Case Analysis of the Group Decision Making Process](https://glencooperalan.github.io/GlenACooper/19930101__Case Analysis of the Group Decision Making Process.pdf)
 
-PROJECT
+Business Case Studies
 - Initial Project Presentation: [Initial Presentation](https://kiranjaura.quarto.pub/events_final/proposal.html#/title-slide)
 - Final Project Presentation (see "Source Code" menu option, upper right, for code script) : [Final Presentation](https://t5904j-kjaura1.shinyapps.io/Storyboard/_w_529b15f0/Story.Rmd)
 - Final Project: [Report](https://glencooperalan.github.io/GlenACooper/20201209_EPPS6356_FinalProject_Jaura_Cooper_Si_Sianan.pdf), Program Script Files: [Event Generation R Code,](https://glencooperalan.github.io/GlenACooper/20221209_EventGenerationScript.R) [Data Analyses R Code](https://glencooperalan.github.io/GlenACooper/20221209_Data_Analysis_R_script.R), Data Files: [File 1](https://glencooperalan.github.io/GlenACooper/ASEAN_Eventdata.json) [File 2](https://glencooperalan.github.io/GlenACooper/China-Global-Investment-Tracker-2022-SPRING-final-1.xlsx) [File 3](https://glencooperalan.github.io/GlenACooper/EPPS6356_Data4R_TEMP.xlsx) [File 4](https://glencooperalan.github.io/GlenACooper/EPPS6356_DatafromR.xlsx)
