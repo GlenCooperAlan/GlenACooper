@@ -46,9 +46,16 @@ Political Economy
 - [Case Analysis of the Group Decision Making Process](https://glencooperalan.github.io/GlenACooper/19930101__Case Analysis of the Group Decision Making Process.pdf)
 
 Business Case Studies
-- Initial Project Presentation: [Initial Presentation](https://kiranjaura.quarto.pub/events_final/proposal.html#/title-slide)
-- Final Project Presentation (see "Source Code" menu option, upper right, for code script) : [Final Presentation](https://t5904j-kjaura1.shinyapps.io/Storyboard/_w_529b15f0/Story.Rmd)
-- Final Project: [Report](https://glencooperalan.github.io/GlenACooper/20201209_EPPS6356_FinalProject_Jaura_Cooper_Si_Sianan.pdf), Program Script Files: [Event Generation R Code,](https://glencooperalan.github.io/GlenACooper/20221209_EventGenerationScript.R) [Data Analyses R Code](https://glencooperalan.github.io/GlenACooper/20221209_Data_Analysis_R_script.R), Data Files: [File 1](https://glencooperalan.github.io/GlenACooper/ASEAN_Eventdata.json) [File 2](https://glencooperalan.github.io/GlenACooper/China-Global-Investment-Tracker-2022-SPRING-final-1.xlsx) [File 3](https://glencooperalan.github.io/GlenACooper/EPPS6356_Data4R_TEMP.xlsx) [File 4](https://glencooperalan.github.io/GlenACooper/EPPS6356_DatafromR.xlsx)
+- [Club Med Inc Case Study](https://glencooperalan.github.io/GlenACooper/19930101__Club Med Inc Case Study.pdf)
+- [Hartmann Luggage Co Case Study](https://glencooperalan.github.io/GlenACooper/19930101__Hartmann Luggage Co Case Study.pdf)
+- [Johnson Products Co Case Study](https://glencooperalan.github.io/GlenACooper/19930101__Johnson Products Co Case Study.pdf)
+- [Lotus Development Corporation Strategic Analysis](https://glencooperalan.github.io/GlenACooper/19930101__Lotus Development Corporation Strategic Analysis.pdf)
+- [Maytag Coporation  Strategic Diagnosis](https://glencooperalan.github.io/GlenACooper/19930101__Maytag Coporation  Strategic Diagnosis.pdf)
+- [Milford Industries Case Study](https://glencooperalan.github.io/GlenACooper/19930101__Milford Industries Case Study.pdf)
+- [America Greetings Case Analysis](https://glencooperalan.github.io/GlenACooper/19930101_America Greetings Case Analysis.pdf)
+- [Balboa Insurance Small Co Computing System Case Study](https://glencooperalan.github.io/GlenACooper/19930101_Balboa Insurance Small Co Computing System Case Study.pdf)
+- [Case Study Impact of Natural Language Processing on Telemarketing](https://glencooperalan.github.io/GlenACooper/20201130_Case Study Impact of Natural Language Processing on Telemarketing.pdf)
+
 
 
 ```
