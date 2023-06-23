@@ -12,15 +12,19 @@
 ### Papers:
 Innovation Economics
 - [Artificial Intelligence and its Impact on Political Economy](https://glencooperalan.github.io/GlenACooper/20200506_Artificial Intelligence and its Impact on Political Economy.pdf)
-- Assignment 2: [Results from Murrell's RGraphics R Program Step Through](https://glencooperalan.github.io/GlenACooper/20220917_murrell01_R_Output.pdf), [Happyplanet R Program](https://glencooperalan.github.io/GlenACooper/20220918_assignment02_R_Program.pdf), [Happyplanet R Program Output](https://glencooperalan.github.io/GlenACooper/20220918_assignment02_graphs.pdf)
-- Assignment 3: [Results from Anscombe01 R Program Step Through](https://glencooperalan.github.io/GlenACooper/20220978_GCooper_EPPS 6356_Assignment 3_anscombe01R.pdf)
-- Assignment 4: Hackathon [Code](https://glencooperalan.github.io/GlenACooper/hackathon_code.qmd), [Output](https://glencooperalan.github.io/GlenACooper/Hackathon_output.pdf)
-- Assignment 5: [From data set](https://glencooperalan.github.io/GlenACooper/20221020_CountryRDSpendperGDP.xlsx), [using R script ](https://glencooperalan.github.io/GlenACooper/20221021_GCooper_EPPS 6356_Assign5_Solution.R), [produced following graphics: Side by Side Bar](https://glencooperalan.github.io/GlenACooper/20221021_GCooper_EPPS 6356_Assign5_SidebySideBar.pdf), [Column chart](https://glencooperalan.github.io/GlenACooper/20221021_GCooper_EPPS 6356_Assign5_Columnchart.pdf), [and Cyclical chart](https://glencooperalan.github.io/GlenACooper/20221021_GCooper_EPPS 6356_Assign5_Cyclicalchart.pdf)
-- Assignment 6: [Shiny App for 'dataset' Library Summary Data](https://metgp7-glen-cooper.shinyapps.io/Shiny_Assign_6b/), [& Shiny App Using R&D Expenditures by Country](https://metgp7-glen-cooper.shinyapps.io/Shiny_Assign_6d_6e/)
-- Assignment 7: [Using this dataset](https://github.com/GlenCooperAlan/GlenACooper/blob/gh-pages/20221020_CountryRDSpendperGDP.xlsx) [and this R script](https://github.com/GlenCooperAlan/GlenACooper/blob/gh-pages/20221027_app_Assign%207.R) [deployed this Shiny application](https://t5904j-kjaura1.shinyapps.io/Hackathon2/)
-- Assignment 8: [Flexdashboard Example](https://glencooperalan.github.io/GlenACooper/Datavisualization_GlenC_storyboard.html)
-- Assignment 9: Time Series Examples - [Apple Stock #1](https://glencooperalan.github.io/GlenACooper/20221119_AppleStkPrices01.pdf), [Apple Stock #2](https://glencooperalan.github.io/GlenACooper/20221119_AppleStkPrices02.pdf), [Apple Stock #3](https://glencooperalan.github.io/GlenACooper/20221119_AppleStkPrices03.pdf), [Apple Stock #4](https://glencooperalan.github.io/GlenACooper/20221119_AppleStkPrices04.pdf), [Twitter Stock #1](https://glencooperalan.github.io/GlenACooper/20221119_TwitterStkPrices.pdf), [US Stock Market #1](https://glencooperalan.github.io/GlenACooper/20221119_US Stock Market01.pdf), [US Stock Market #2](https://glencooperalan.github.io/GlenACooper/20221119_US Stock Market02.pdf), [World Stock Markets #1](https://glencooperalan.github.io/GlenACooper/20221119_World Stock Markets01.pdf)
-- Assignment 10: [Presentation Visualization Review](https://github.com/GlenCooperAlan/GlenACooper/blob/gh-pages/20221117_GCooper_EPPS 6356_Assignment 10_Dr Brandt Presentation.pdf)
+- [Artificial Intelligence and Ethics a Theoretical Foundation](https://glencooperalan.github.io/GlenACooper/20210411_Artificial Intelligence and Ethics_Theoretical Foundation Paper.pdf)
+- [Artificial intelligence and the US Federal Government](https://glencooperalan.github.io/GlenACooper/20210403_Artificial intelligence and the US Federal Government.pdf)
+- [Singapore versus Malaysia Artificial Intelligence Readiness](https://glencooperalan.github.io/GlenACooper/2018206_Singapore versus Malaysia Artificial Intelligence Readiness.pdf)
+- [Exploration of Factors Leading to National R&D Expenditures](https://glencooperalan.github.io/GlenACooper/20200501_Exploration of Factors Leading to National R&D Expenditures.pdf)
+- [Exploration into the Prediction of National R&D Expenditures](https://glencooperalan.github.io/GlenACooper/20220507_Exploration into the Prediction of National R&D Expenditures.pdf)
+- [Innovation Economics and Natural Language Processing](https://glencooperalan.github.io/GlenACooper/20201203_Innovation Economics and Natural Language Processing.pdf)
+- [The Digital Divide Impacts on Inequality](https://glencooperalan.github.io/GlenACooper/20201114_The Digital Divide Impacts on Inequality_Lit Review.pdf)
+- [The Future of Data Centers A Survey Design](https://glencooperalan.github.io/GlenACooper/20211201_The Future of Data Centers A Survey Design.pdf)
+- [Data Center Geospatial Positioning Research Proposal](https://glencooperalan.github.io/GlenACooper/20220811_Data Center Geospatial Positioning Research Proposal.pdf)
+- [Political Economy of Innovation Exam Responses](https://glencooperalan.github.io/GlenACooper/20201120_Political Economy of InnnovationExam 1 2_History of Innovation Econ.pdf)
+- [Emerging Technology Management](https://glencooperalan.github.io/GlenACooper/19920101_Emerging_Tech_Mtg.PDF)
+- [Expert System Technology in the Mortgage Banking Industry](https://metgp7-glen-cooper.shinyapps.io/19990101_Expert_Sys_Mort.pdf)
+- [Computing](https://metgp7-glen-cooper.shinyapps.io/19920101_Computing.PDF) 
 
 PREPARE FOR CLASS
 - Prespare for Class 4: [Summary Tufte, Edward. 2016. The Future of Data Analysis](https://glencooperalan.github.io/GlenACooper/20220916_GCooper_PPPE 6356_Microsoft Machine Learning & Data Science Summit 2016.pdf)
