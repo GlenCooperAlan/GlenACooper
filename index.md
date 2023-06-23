@@ -6,11 +6,11 @@
 - Certifications: CPA, California / Faster Project Management Gold Certified / University of Texas at Dallas' Graduate Teaching Certificate
 - [CV](https://github.com/GlenCooperAlan/GlenACooper/blob/e218e77a99cfa9d2a367705ac7954878c9557bb9/GlenCooper_Resume_GetHub.pdf)
 
-### My Blog
+### My Blog (under construction)
 - [Blog](https://glencooperalan.github.io/Blog/)
 
-### Assignments / Prepare for Class / Project:
-ASSIGNMENTS
+### Papers:
+Innovation Economics
 - Assignment 1: [Generative Art](https://glencooperalan.github.io/GlenACooper/20220908_GCooper_EPPS 6356_Assignment 1a_Generative Art.pdf), [Fall Leaf](https://glencooperalan.github.io/GlenACooper/20220908_GCooper_EPPS 6356_Assignment 1b_Fall Leaf.pdf), and [Graphic Critique](https://glencooperalan.github.io/GlenACooper/20220908_GCooper_EPPS 6356_Assignment 1c_Graphic Critique.pdf)
 - Assignment 2: [Results from Murrell's RGraphics R Program Step Through](https://glencooperalan.github.io/GlenACooper/20220917_murrell01_R_Output.pdf), [Happyplanet R Program](https://glencooperalan.github.io/GlenACooper/20220918_assignment02_R_Program.pdf), [Happyplanet R Program Output](https://glencooperalan.github.io/GlenACooper/20220918_assignment02_graphs.pdf)
 - Assignment 3: [Results from Anscombe01 R Program Step Through](https://glencooperalan.github.io/GlenACooper/20220978_GCooper_EPPS 6356_Assignment 3_anscombe01R.pdf)
