@@ -35,8 +35,7 @@ Political Economy
 - [Impacting Microcredit in African Countries](https://glencooperalan.github.io/GlenACooper/20190428_Impacting Microcredit in African Countries.pdf)
 - [Microcredit Angola vs Ghana #1](https://glencooperalan.github.io/GlenACooper/20190208_Microcredit Angola vs Ghana.pdf)
 - [Microcredit Angola vs Ghana #2](https://glencooperalan.github.io/GlenACooper/2019022_Microcredit Angola vs Ghana.pdf)
-- [Financial Futures](https://glencooperalan.github.io/GlenACooper/19930101__Financial Futures.pdf)
-- 
+- [Financial Futures](https://glencooperalan.github.io/GlenACooper/19930101__Financial Futures.pdf)- 
 - [NV State Economic Analysis and Outlook Summary Report](https://glencooperalan.github.io/GlenACooper/20180320_State Economic Analysis and Outlook Summary Report.pdf)
 - [Honduras versus El Salvador Migration to the United States](https://glencooperalan.github.io/GlenACooper/20181026_Honduras versus El Salvador Migration to the United States.pdf)
 - [Colorado versus Texas and the Legalization of Marijuana](https://glencooperalan.github.io/GlenACooper/20180928_Colorado versus Texas and the Legalization of Marijuana.pdf)
