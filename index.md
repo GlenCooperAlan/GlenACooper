@@ -46,7 +46,7 @@ Political Economy
 - [Case Analysis of the Group Decision Making Process](https://glencooperalan.github.io/GlenACooper/19930101__Case Analysis of the Group Decision Making Process.pdf)
 
 Business Case Studies
--- [Case Study Impact of Natural Language Processing on Telemarketing](https://glencooperalan.github.io/GlenACooper/20201130_Case Study Impact of Natural Language Processing on Telemarketing.pdf)
+- [Case Study Impact of Natural Language Processing on Telemarketing](https://glencooperalan.github.io/GlenACooper/20201130_Case Study Impact of Natural Language Processing on Telemarketing.pdf)
 - [Lotus Development Corporation Strategic Analysis](https://glencooperalan.github.io/GlenACooper/MBA_Lotus Development Corporation Strategic Analysis.pdf)
 - [Club Med Inc Case Study](https://glencooperalan.github.io/GlenACooper/19930101__Club Med Inc Case Study.pdf)
 - [Hartmann Luggage Co Case Study](https://glencooperalan.github.io/GlenACooper/19930101__Hartmann Luggage Co Case Study.pdf)
