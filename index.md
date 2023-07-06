@@ -46,15 +46,18 @@ Political Economy
 - [Case Analysis of the Group Decision Making Process](https://glencooperalan.github.io/GlenACooper/19930101__Case Analysis of the Group Decision Making Process.pdf)
 
 Business Case Studies
+-- [Case Study Impact of Natural Language Processing on Telemarketing](https://glencooperalan.github.io/GlenACooper/20201130_Case Study Impact of Natural Language Processing on Telemarketing.pdf)
+- [Lotus Development Corporation Strategic Analysis](https://glencooperalan.github.io/GlenACooper/MBA_Lotus Development Corporation Strategic Analysis.pdf)
 - [Club Med Inc Case Study](https://glencooperalan.github.io/GlenACooper/19930101__Club Med Inc Case Study.pdf)
 - [Hartmann Luggage Co Case Study](https://glencooperalan.github.io/GlenACooper/19930101__Hartmann Luggage Co Case Study.pdf)
 - [Johnson Products Co Case Study](https://glencooperalan.github.io/GlenACooper/19930101__Johnson Products Co Case Study.pdf)
-- [Lotus Development Corporation Strategic Analysis](https://glencooperalan.github.io/GlenACooper/19930101__Lotus Development Corporation Strategic Analysis.pdf)
 - [Maytag Coporation  Strategic Diagnosis](https://glencooperalan.github.io/GlenACooper/19930101__Maytag Coporation  Strategic Diagnosis.pdf)
 - [Milford Industries Case Study](https://glencooperalan.github.io/GlenACooper/19930101__Milford Industries Case Study.pdf)
 - [America Greetings Case Analysis](https://glencooperalan.github.io/GlenACooper/19930101_America Greetings Case Analysis.pdf)
 - [Balboa Insurance Small Co Computing System Case Study](https://glencooperalan.github.io/GlenACooper/19930101_Balboa Insurance Small Co Computing System Case Study.pdf)
-- [Case Study Impact of Natural Language Processing on Telemarketing](https://glencooperalan.github.io/GlenACooper/20201130_Case Study Impact of Natural Language Processing on Telemarketing.pdf)
+- [Club Med Inc Case Study](https://glencooperalan.github.io/GlenACooper/19930101__Club Med Inc Case Study.pdf)
+
+
 
 
 
